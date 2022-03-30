@@ -12,9 +12,7 @@ We always use standard and latest technologies to serve our clients. our develop
 
 # FIVERR PROFILE
 
-<div align="center">
-<img width="100%" height = "250px" src="(https://twh360.com/images/fiverr-profile/profile-picture.jpg" alt="CEO/Founder" />
-</div>
+![CEO/Founder](https://twh360.com/images/fiverr-profile/profile-picture.jpg)
 
 > [Visit Fiverr Profile](https://www.fiverr.com/saleemwebs)
 
